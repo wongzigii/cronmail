@@ -1,6 +1,6 @@
 # cronmail
 
-A cron job to send daily report to mailbox.
+A cron job to send daily report of database to your mailbox.
 
 ## Usage
 
@@ -10,7 +10,7 @@ A cron job to send daily report to mailbox.
 
 TBD
 
-## 账号配置
+## Configuration
 
 You will need to create a config file named `config.json` likes this:
 ````javascript
